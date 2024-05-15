@@ -1,0 +1,44 @@
+body{
+    color: white;
+    background-image: url(Imagenes/fondo-producto-negro_53876-89505.avif);
+    background-size: cover;
+    background-position: center center;
+
+}
+
+hr{
+    color: coral;
+}
+
+
+.container{
+    text-align: center;
+}
+
+.titulos{
+    background-color: rgba(0, 0, 0, 0.534);
+    margin: 8px;
+    margin-top: 80px;
+    border: solid rgba(0, 0, 0, 0.267);
+    padding: 8px;
+}
+
+#logo{
+    height: 40px;
+    width: 40px;
+}
+
+.pie{
+    background-color: rgba(0, 0, 0, 0.534);
+    color: white;
+    padding: 18px;
+    margin-top: 18px;
+    font-size: small;
+    border-top: solid 2px rgba(0, 0, 0, 0.267);
+    text-align: center;
+}
+
+.imgarmas{
+    width: 256px;
+    height: 300px;
+}
